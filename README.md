@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am Antonio Battipaglia, a passionate Computer Engineer. I've just completed my Master's Degree in Computer Engineering at Politecnico di Torino.  
+I am Antonio Battipaglia, a passionate Computer Engineer. I've just completed my Master's Degree in Computer Engineering at Politecnico di Torino, oriented in Cybersecurity.  
 
 As a meticulous individual deeply committed to my work, I am excited to leverage my enthusiasm for Software and System Design. I want to drive technological advancement and make a real impact on the world through innovative ideas. 
 
@@ -28,6 +28,7 @@ As a meticulous individual deeply committed to my work, I am excited to leverage
 **Master's Degree in Computer Engineering** – _Politecnico di Torino (Torino, :it:)_
 * GPA: 28.91/30 (3.85/4).
 * 110/110 summa cum Laude.
+* Cybersecurity Track: particular focus in Information System Security, Cybersecurity, Cryptography and Security Verification & Testing. 
 * MSc thesis _"Evaluation of SCION for User-Driven Path Control: A Usability Study"_, assessing the usage of a Next-Generation Internet Architecture to provied Path Selection and Recommendation features to end-users.
 
 **Exchange Program** – _Universiteit van Amsterdam (Amsterdam, 🇳🇱)_
@@ -41,6 +42,12 @@ As a meticulous individual deeply committed to my work, I am excited to leverage
 ## ✒️ Writings
 * Research Article: _["Evaluation of SCION for User-Driven Path Control: A Usability Study"](https://dl.acm.org/doi/10.1145/3624062.3624592)_ published on the _12th November 2023_ at the INDIS Workshop within the _Super Computing Conference 2023_ held in _Denver, Colorado, :us:_.
 
+## 📚 Main Projects
+* _Web Application I:_ [WA1-FinalProject](https://github.com/polito-WA1-AJ-2022-exam/WA1-FinalProject)
+* _Software Engineering 2:_ [softeng2-Hike-Tracker](https://github.com/polito-SE2-TEAM-20/softeng2-Hike-Tracker)
+* _Distributed Systems Programming - Socket TCP:_ [DSP-Project](https://github.com/MrR0b0t14/DSP-Project)
+* _Security Verification & Testing Project - Formal Verification:_ [SVTProject](https://github.com/MrR0b0t14/SVTProject)
+  
 ## 🔨 Skills, Languages and Tools 
 
 <div>
