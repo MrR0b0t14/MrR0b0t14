@@ -48,7 +48,7 @@ As a meticulous individual deeply committed to my work, I am excited to leverage
 * _Distributed Systems Programming - Socket TCP:_ [DSP-Project](https://github.com/MrR0b0t14/DSP-Project)
 * _Security Verification & Testing Project - Formal Verification:_ [SVTProject](https://github.com/MrR0b0t14/SVTProject)
   
-## 🔨 Skills, Languages and Tools 
+## 🔨 Programming Languages and Tools 
 
 <div>
   <p align="center"> 
