@@ -48,11 +48,11 @@ As a meticulous individual deeply committed to my work, I am excited to leverage
 * _Distributed Systems Programming - Socket TCP:_ [DSP-Project](https://github.com/MrR0b0t14/DSP-Project)
 * _Security Verification & Testing Project - Formal Verification:_ [SVTProject](https://github.com/MrR0b0t14/SVTProject)
   
-## 🔨 Programming Languages and Tools 
+## 🔨 Programming Languages, Tools and IaC
 
 <div>
   <p align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
