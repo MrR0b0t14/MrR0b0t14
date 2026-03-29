@@ -75,8 +75,3 @@ As a meticulous individual deeply committed to my work, I am excited to leverage
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </p>
 </div>
-
-## :fire: Github Stats 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrR0b0t14&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
