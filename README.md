@@ -1,77 +1,90 @@
 # Hi there, I'm Antonio! 👋 
 
-
-### 
-<div style="width:720px" id="skills" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ABattipaglia" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white" alt="antoniobattipaglia14@gmail.com"/></a>
-<a href="mailto:antoniobattipaglia14@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/GMail-red?logo=GMail&logoColor=white" alt="antoniobattipaglia14@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/ABattipaglia" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white&style=plastic" /></a>
+<a href="mailto:antoniobattipaglia14@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/GMail-red?logo=GMail&logoColor=white&style=plastic" /></a>
+<a href="https://scholar.google.com/citations?user=H_92FzcAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Scholar-FDDA0D?&logo=googlescholar&logoColor=black&style=plastic" /></a>
 </p>
+
+---
 
 ## 🚀 About Me
 
-I am Antonio Battipaglia, a passionate Computer Engineer. I've just completed my Master's Degree in Computer Engineering at Politecnico di Torino, oriented in Cybersecurity.  
+I'm a Software Development Engineer at **Amazon Web Services (AWS)**, working on distributed systems and infrastructure at scale.
 
-As a meticulous individual deeply committed to my work, I am excited to leverage my enthusiasm for Software and System Design. I want to drive technological advancement and make a real impact on the world through innovative ideas. 
+I focus on building reliable and scalable backend systems, with experience in:
+- distributed systems
+- system design and reliability
+- backend architecture and APIs
 
-## 👨‍💻 Working Experience
-**Software Development Engineer Intern** – _Amazon Web Services (Dublin, 🇮🇪)_
-* EC2 Core Platform Department ‑ Contributed to an innovative AWS Fleets Management internal service.
+I enjoy solving complex problems, improving system performance, and designing clean, maintainable systems.
 
-**Web Application Developer Intern** – _Università degli Studi di Salerno (Salerno, :it:)_
-* Development of a Web Application to manage business quotes in a company.
+---
 
-## 🎓 Academic Background
-**Master's Degree in Computer Engineering** – _Politecnico di Torino (Torino, :it:)_
-* GPA: 28.91/30 (3.85/4).
-* 110/110 summa cum Laude.
-* Cybersecurity Track: particular focus in Information System Security, Cybersecurity, Cryptography and Security Verification & Testing. 
-* MSc thesis _"Evaluation of SCION for User-Driven Path Control: A Usability Study"_, assessing the usage of a Next-Generation Internet Architecture to provied Path Selection and Recommendation features to end-users.
+## 👨‍💻 Work Experience
 
-**Exchange Program** – _Universiteit van Amsterdam (Amsterdam, 🇳🇱)_
-* Exchange Program in Amsterdam to work on MSc Thesis.
-* **Lead Author** of a Research article published within the _Super Computing Conference 2023_ in _Denver, Colorado_.
+**Software Development Engineer** – _Amazon Web Services (AWS), Dublin 🇮🇪_  
+- Working on an orchestration platform within AWS Network Lifecycle Management (NLM) to automate network provisioning, scaling, and decommissioning across regions  
+- Designed a multi-region active-active failover strategy using Route53  
+- Reduced CI/CD pipeline build time by ~80% by removing critical bottlenecks  
+- Led a security migration across 40+ packages to resolve cross-partition authorization vulnerabilities  
+- Built a deterministic testing framework to replace flaky integration tests  
 
-**Bachelor's Degree in Computer Engineering** — _Università degli Studi di Salerno (Salerno, :it:)_ 
-* GPA: 28.87/30 (3.85/4).
-* 110/110 summa cum Laude.
+**Software Development Engineer Intern** – _Amazon Web Services (AWS), Dublin 🇮🇪_  
+- Worked on an internal BI system analyzing AWS service usage  
+- Onboarded DynamoDB and GPU data to support downstream optimization workflows  
 
-## ✒️ Writings
-* Research Article: _["Evaluation of SCION for User-Driven Path Control: A Usability Study"](https://dl.acm.org/doi/10.1145/3624062.3624592)_ published on the _12th November 2023_ at the INDIS Workshop within the _Super Computing Conference 2023_ held in _Denver, Colorado, :us:_.
+---
 
-## 📚 Main Projects
-* _Web Application I:_ [WA1-FinalProject](https://github.com/polito-WA1-AJ-2022-exam/WA1-FinalProject)
-* _Software Engineering 2:_ [softeng2-Hike-Tracker](https://github.com/polito-SE2-TEAM-20/softeng2-Hike-Tracker)
-* _Distributed Systems Programming - Socket TCP:_ [DSP-Project](https://github.com/MrR0b0t14/DSP-Project)
-* _Security Verification & Testing Project - Formal Verification:_ [SVTProject](https://github.com/MrR0b0t14/SVTProject)
-  
-## 🔨 Programming Languages, Tools and IaC
+## 🎓 Education
 
-<div>
-  <p align="center"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </p>
-</div>
+**M.S. Computer Science and Engineering** – _Politecnico di Torino_  
+- 110/110 cum laude  
+- Focus: Security, Cryptography, Distributed Systems  
+
+**Thesis (Universiteit van Amsterdam)**  
+- Research on next-generation networks and path-aware architectures  
+- Lead author of an ACM publication on SCION  
+
+**B.S. Computer Science and Engineering** – _Università degli Studi di Salerno_  
+- 110/110 cum laude  
+
+---
+
+## ✒️ Publications
+
+- _[Evaluation of SCION for User-Driven Path Control: A Usability Study](https://dl.acm.org/doi/10.1145/3624062.3624592)_  
+  ACM SC’23 Workshops — Usability study on path-aware networking  
+
+- _[MS4PAN: Measurement System for Path-Aware Networks](https://ieeexplore.ieee.org/abstract/document/10815880)_    
+  IEEE CloudNet 2024 — Framework to measure path diversity, latency, and reliability in SCION networks  
+
+---
+
+## 📚 Projects
+
+- [alexa-jarvis-assistant](https://github.com/MrR0b0t14/alexa-jarvis-assistant)   
+- [softeng2-Hike-Tracker](https://github.com/polito-SE2-TEAM-20/softeng2-Hike-Tracker)  
+- [DSP-Project](https://github.com/MrR0b0t14/DSP-Project)  
+- [WA1-FinalProject](https://github.com/polito-WA1-AJ-2022-exam/WA1-FinalProject)  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, TypeScript, JavaScript, C, Rust, SQL  
+**Backend:** Node.js, NestJS, Express, REST APIs, Microservices  
+**Cloud & Tools:** AWS (Lambda, DynamoDB, API Gateway, S3), Docker, Git, CI/CD  
+**Frontend:** React, HTML, CSS  
+
+---
+
+## 🌍 Languages
+
+- Italian *(Native)*  
+- English *(IELTS 7.0)*  
+- Spanish *(Limited working proficiency)*  
